@@ -1,0 +1,18 @@
+body     {
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    background-image: url(background.jpg);
+   }
+
+.HOLYWEEK {
+    border-radius: 20pt;
+    margin-left: 250pt;
+    margin-right: 250pt;
+    background-color: rgba(201, 199, 199, 0.6);
+    border: 2pt solid black;
+    padding-left: 20pt;
+    padding-right: 20pt;
+    padding-bottom: 40pt;
+    margin-bottom: 30pt;
+}
